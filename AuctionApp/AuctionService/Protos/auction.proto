@@ -1,0 +1,23 @@
+syntax = "proto3";
+
+option csharp_namespace = "AuctionService.Protos";
+
+message AuctionMsg {
+  string itemName = 1;
+  int32 itemId = 2;
+  string sellerId = 3;
+  double startingPrice = 4;
+}
+
+message BidMsg {
+  string bidderId = 1;
+  double bidAmount = 2;
+}
+
+service AuctionSystemService {
+  rpc StartAuction (AuctionMsg) returns (AuctionMsg);
+  rpc PlaceBid (BidMsg) returns (BidMsg);
+  rpc CloseAuction (AuctionMsg) returns (AuctionMsg);
+}
+
+

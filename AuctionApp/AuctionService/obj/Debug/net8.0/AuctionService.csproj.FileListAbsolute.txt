@@ -1,0 +1,6 @@
+C:\Users\maxiw\Documents\Mi Perfil Profesional\Bitfinex\Coding Challenge\AuctionApp\AuctionService\obj\Debug\net8.0\AuctionService.csproj.AssemblyReference.cache
+C:\Users\maxiw\Documents\Mi Perfil Profesional\Bitfinex\Coding Challenge\AuctionApp\AuctionService\obj\Debug\net8.0\AuctionService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxiw\Documents\Mi Perfil Profesional\Bitfinex\Coding Challenge\AuctionApp\AuctionService\obj\Debug\net8.0\AuctionService.AssemblyInfoInputs.cache
+C:\Users\maxiw\Documents\Mi Perfil Profesional\Bitfinex\Coding Challenge\AuctionApp\AuctionService\obj\Debug\net8.0\AuctionService.AssemblyInfo.cs
+C:\Users\maxiw\Documents\Mi Perfil Profesional\Bitfinex\Coding Challenge\AuctionApp\AuctionService\obj\Debug\net8.0\AuctionService.csproj.CoreCompileInputs.cache
+C:\Users\maxiw\Documents\Mi Perfil Profesional\Bitfinex\Coding Challenge\AuctionApp\AuctionService\obj\Debug\net8.0\AuctionService.MvcApplicationPartsAssemblyInfo.cache

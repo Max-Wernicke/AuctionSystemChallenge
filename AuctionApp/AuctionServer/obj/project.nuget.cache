@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "rh9d2XjUAPrYoOgs09F0uBIifHRtLX7cqjX+bgoDBUPz3nsemmbr0T7uJ75m9V2hAmzRYW5xBvtGTSX2TX+6Jg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maxiw\\Documents\\Mi Perfil Profesional\\Bitfinex\\Coding Challenge\\AuctionApp\\AuctionServer\\AuctionServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maxiw\\.nuget\\packages\\google.protobuf\\3.25.1\\google.protobuf.3.25.1.nupkg.sha512",
+    "C:\\Users\\maxiw\\.nuget\\packages\\grpc.aspnetcore\\2.59.0\\grpc.aspnetcore.2.59.0.nupkg.sha512",
+    "C:\\Users\\maxiw\\.nuget\\packages\\grpc.aspnetcore.server\\2.59.0\\grpc.aspnetcore.server.2.59.0.nupkg.sha512",
+    "C:\\Users\\maxiw\\.nuget\\packages\\grpc.aspnetcore.server.clientfactory\\2.59.0\\grpc.aspnetcore.server.clientfactory.2.59.0.nupkg.sha512",
+    "C:\\Users\\maxiw\\.nuget\\packages\\grpc.core.api\\2.59.0\\grpc.core.api.2.59.0.nupkg.sha512",
+    "C:\\Users\\maxiw\\.nuget\\packages\\grpc.net.client\\2.59.0\\grpc.net.client.2.59.0.nupkg.sha512",
+    "C:\\Users\\maxiw\\.nuget\\packages\\grpc.net.clientfactory\\2.59.0\\grpc.net.clientfactory.2.59.0.nupkg.sha512",
+    "C:\\Users\\maxiw\\.nuget\\packages\\grpc.net.common\\2.59.0\\grpc.net.common.2.59.0.nupkg.sha512",
+    "C:\\Users\\maxiw\\.nuget\\packages\\grpc.tools\\2.60.0\\grpc.tools.2.60.0.nupkg.sha512",
+    "C:\\Users\\maxiw\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\maxiw\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\maxiw\\.nuget\\packages\\microsoft.extensions.http\\6.0.0\\microsoft.extensions.http.6.0.0.nupkg.sha512",
+    "C:\\Users\\maxiw\\.nuget\\packages\\microsoft.extensions.logging\\6.0.0\\microsoft.extensions.logging.6.0.0.nupkg.sha512",
+    "C:\\Users\\maxiw\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\maxiw\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\maxiw\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\maxiw\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\maxiw\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
